@@ -1,0 +1,283 @@
+{
+  "users": [
+    {
+      "id": "1705701945952",
+      "username": "Marcel",
+      "pin": "1111",
+      "avatar": 6
+    },
+    {
+      "id": "1706453054789",
+      "username": "Robert",
+      "pin": "1111",
+      "avatar": 7
+    },
+    {
+      "id": "1707085911184",
+      "username": "Maciek",
+      "pin": "1111",
+      "avatar": 3
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1707065840735",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-04",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840736",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-04",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840737",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-04",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840738",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-04",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840739",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-04",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840740",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-03",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840741",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-03",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840742",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-02",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840743",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-02",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840744",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-02",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707065840745",
+      "title": "Dokończyć aplikacje na AM",
+      "description": "Dopracować style",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/45699a84-1a40-4e40-ab4c-b3caa0cad425.jpeg",
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "completed",
+      "creationDate": "2024-02-04T16:57:20.735Z",
+      "completionDate": "2024-02-01",
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707084016507",
+      "title": "Poczilować bombe",
+      "description": "Wyluzuj bratku",
+      "image": null,
+      "location": null,
+      "startTime": "23:00",
+      "endTime": "23:30",
+      "date": "2024-02-04",
+      "status": "canceled",
+      "creationDate": "2024-02-04T22:00:16.507Z",
+      "completionDate": "2024-02-05",
+      "boardId": "6155",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707090577941",
+      "title": "Test",
+      "description": "Teścik",
+      "image": null,
+      "location": null,
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "date": "2024-02-04",
+      "status": "pending",
+      "creationDate": "2024-02-04T23:49:37.941Z",
+      "completionDate": null,
+      "boardId": "a111",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707092884237",
+      "title": "Mapkowanie",
+      "description": "",
+      "image": null,
+      "location": {
+        "altitude": 374.8999938964844,
+        "heading": 0,
+        "altitudeAccuracy": 1.509387731552124,
+        "latitude": 50.92453,
+        "speed": 0,
+        "longitude": 20.783957,
+        "accuracy": 20
+      },
+      "startTime": "18:30",
+      "endTime": "20:00",
+      "date": "2024-02-05",
+      "status": "pending",
+      "creationDate": "2024-02-05T00:28:04.237Z",
+      "completionDate": null,
+      "boardId": "53d0",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "1707097043180",
+      "title": "Egzamin z Inżynierii",
+      "description": "",
+      "image": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FProjekt_AM-5aaafb4e-0f5a-431a-8712-38626cacc888/ImagePicker/595eb58f-e082-49f5-a361-50feaa1c0007.jpeg",
+      "location": null,
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "date": "2024-02-05",
+      "status": "pending",
+      "creationDate": "2024-02-05T01:37:23.181Z",
+      "completionDate": null,
+      "boardId": "a111",
+      "userId": "1706453054789"
+    }
+  ],
+  "boards": [
+    {
+      "id": "a111",
+      "name": "Uczelnia",
+      "color": "#87A45F",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "6155",
+      "name": "Hobby",
+      "color": "#3A5274",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "53d0",
+      "name": "Obowiązki",
+      "color": "#B4654A",
+      "userId": "1706453054789"
+    },
+    {
+      "id": "373c",
+      "name": "Uczelnia",
+      "color": "#97B1A6",
+      "userId": "1707085911184"
+    }
+  ]
+}
