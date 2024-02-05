@@ -8,6 +8,7 @@ const Calendar = () => {
   const { user } = useUser();
   const [tasksData, setTasksData] = useState([]);
   const [timelineItems, setTimelineItems] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     fetchTasks();
@@ -20,8 +21,10 @@ const Calendar = () => {
   
       const todayResponse = await api.get(`/tasks?userId=${user.id}&status=pending&date=${formattedDate}`);
       setTasksData(todayResponse.data);
+      setLoading(false);
     } catch (error) {
       console.error('Błąd podczas pobierania zadań:', error);
+      setLoading(false);
     }
   };
 
@@ -83,11 +86,15 @@ const Calendar = () => {
         <Text style={styles.welcomeText}>PLANY NA DZIŚ:</Text>
       </View>
 
-      <ScrollView vertical style={styles.scrollView}>
-        <View style={styles.timelineContainer}>
-          {generateTimeline()}
-        </View>
-      </ScrollView>
+      {loading ? (
+        <Text>Ładowanie...</Text>
+      ) : (
+        <ScrollView vertical style={styles.scrollView}>
+          <View style={styles.timelineContainer}>
+            {generateTimeline()}
+          </View>
+        </ScrollView>
+      )}
 
     </View>
   );
